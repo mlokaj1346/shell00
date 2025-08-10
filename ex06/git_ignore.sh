@@ -1,3 +1,3 @@
-.C
-.Html
-.sh
+*.c
+*.html
+*.sh
